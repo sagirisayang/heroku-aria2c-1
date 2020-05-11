@@ -1,6 +1,8 @@
 # Heroku aria2c
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+This is my personal configurations of heroku-aria2c.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sagirisayang/heroku-aria2c-1/tree/master)
 
 > Do not overuse it, or your account might be banned by Heroku.
 
